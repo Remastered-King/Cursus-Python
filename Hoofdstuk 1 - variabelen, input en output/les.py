@@ -1,3 +1,5 @@
+print(-4//3)
+
 naamEerstHuisdier = "George"
 naam_tweede_huisdier = 'Shiro'
 
